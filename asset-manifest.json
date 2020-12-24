@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/contenterra-assigment/static/css/main.bb3b40de.chunk.css",
+    "main.js": "/contenterra-assigment/static/js/main.a9e6763a.chunk.js",
+    "main.js.map": "/contenterra-assigment/static/js/main.a9e6763a.chunk.js.map",
+    "runtime-main.js": "/contenterra-assigment/static/js/runtime-main.03ab72a3.js",
+    "runtime-main.js.map": "/contenterra-assigment/static/js/runtime-main.03ab72a3.js.map",
+    "static/js/2.c4f03bbf.chunk.js": "/contenterra-assigment/static/js/2.c4f03bbf.chunk.js",
+    "static/js/2.c4f03bbf.chunk.js.map": "/contenterra-assigment/static/js/2.c4f03bbf.chunk.js.map",
+    "static/js/3.c5df5e02.chunk.js": "/contenterra-assigment/static/js/3.c5df5e02.chunk.js",
+    "static/js/3.c5df5e02.chunk.js.map": "/contenterra-assigment/static/js/3.c5df5e02.chunk.js.map",
+    "index.html": "/contenterra-assigment/index.html",
+    "static/css/main.bb3b40de.chunk.css.map": "/contenterra-assigment/static/css/main.bb3b40de.chunk.css.map",
+    "static/js/2.c4f03bbf.chunk.js.LICENSE.txt": "/contenterra-assigment/static/js/2.c4f03bbf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03ab72a3.js",
+    "static/js/2.c4f03bbf.chunk.js",
+    "static/css/main.bb3b40de.chunk.css",
+    "static/js/main.a9e6763a.chunk.js"
+  ]
+}
